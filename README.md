@@ -1,6 +1,5 @@
-# AI Assignment 1 - International Football Results Analysis
+#  Assignment 1 - Football Results Analysis
 
-This project completes Assignment 1 using the International Football Results dataset.
 
 ## What this includes
 - Data loading (local file or automatic download fallback)
